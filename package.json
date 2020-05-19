@@ -13,6 +13,10 @@
   },
   "author": "Rob Lourens",
   "license": "MIT",
+
+  "dependencies": {
+    "https-proxy-agent": "^4.0.0"
+  },
   "devDependencies": {
     "@types/node": "^10.12.0"
   }
